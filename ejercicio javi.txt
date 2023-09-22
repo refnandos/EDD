@@ -1,0 +1,85 @@
+establecer num1 = 
+establecer num2 =
+
+si num1 ==  num2;
+
+imprimir (son iguales)
+
+si no 
+imprimir no son iguales
+
+
+
+bucle para:
+
+variable llamada contador = index
+	bucle util para repetir un numero de veces especifico 
+	"para contador = 1, contador <= 10; contador ++
+	 
+
+
+	 Fin para
+	 "
+
+
+
+sumar del 1 AL 100
+
+NUMERO = 1
+SUMA = 0
+MIENTRAS NUMERO <= 100
+	SUMA = SUMA + NUMERO
+	NUMERO = NUMERO + 1
+FIN MIENTRAS
+IMPRIMIR SUMA
+FIN
+
+Numero = 1
+Suma = 0
+para contador = 1 ; contador = 100; contador = contador + 1;
+	Suma = Suma + Numero
+	Numero = Numero +1
+FIN para
+imprimir Suma
+FIN
+
+
+inicio
+suma = 0
+limite inferior = 1
+limite superior = 100
+paso = 1
+para "contador = limite inferior" hasta "contador = limite superior" con paso "paso"
+	suma = suma + contador
+fin para
+
+
+
+
+
+
+
+imprimir numeros pares del 1 al 20
+
+	CON MIENTRAS
+numero = 1
+mientras numero <= 20
+	si numero %2 = 0
+		imprimir (numero)
+	si no 
+		numero = numero + 1
+fin mientras
+fin
+
+
+	CON PARA
+
+limite_inferior = 1
+limite_superior = 20
+paso = 1
+para contador = limite_inferior ; hasta contador = limite_superior; con paso = paso
+	si contador %2 = 0
+		imprimir (contador)
+fin para
+
+ 
