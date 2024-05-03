@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T15:18:05.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="YdeN-9O4ijIJ3_BkfWtg" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T15:24:58.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="blEPrRXTMj-wng38Ihs4" version="24.3.1" type="github">
   <diagram name="Página-1" id="GsmQLM7fggVLqDt_fxHi">
     <mxGraphModel dx="3861" dy="5459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,8 +132,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1720" y="-3850" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2380" y="-3840" />
-              <mxPoint x="-1720" y="-3840" />
+              <mxPoint x="-2380" y="-4030" />
+              <mxPoint x="-1720" y="-4030" />
+              <mxPoint x="-1720" y="-4318" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -151,8 +152,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1500" y="-3910" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2380" y="-3800" />
-              <mxPoint x="-1580" y="-3800" />
+              <mxPoint x="-2380" y="-4000" />
+              <mxPoint x="-1580" y="-4000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -170,8 +171,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1320" y="-3920" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2380" y="-3763" />
-              <mxPoint x="-1340" y="-3763" />
+              <mxPoint x="-2380" y="-3970" />
+              <mxPoint x="-1340" y="-3970" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -186,7 +187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E-lB4cvi65sXDCs0Uhgy-39" value="Estudiante" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-2450" y="-3990" width="140" height="104" as="geometry" />
+          <mxGeometry x="-2450" y="-4170" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="E-lB4cvi65sXDCs0Uhgy-40" value="+ int ID_estudiante" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="E-lB4cvi65sXDCs0Uhgy-39" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -206,7 +207,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E-lB4cvi65sXDCs0Uhgy-43" value="Profesor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-2210" y="-3990" width="140" height="104" as="geometry" />
+          <mxGeometry x="-2210" y="-4170" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="E-lB4cvi65sXDCs0Uhgy-44" value="+ ID profesor" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="E-lB4cvi65sXDCs0Uhgy-43" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -222,7 +223,7 @@
             <mxPoint x="-2030" y="-3910" as="sourcePoint" />
             <mxPoint x="-1870" y="-4220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1940" y="-3940" />
+              <mxPoint x="-1940" y="-4118" />
             </Array>
           </mxGeometry>
         </mxCell>
